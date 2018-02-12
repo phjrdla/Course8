@@ -2,7 +2,9 @@
 title: "Course8ML"
 author: "P.Briens"
 date: "February 11, 2018"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
